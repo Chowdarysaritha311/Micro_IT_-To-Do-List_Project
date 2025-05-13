@@ -1,21 +1,30 @@
-# To-Do List Web App
+# To-Do List Web Application
 
-## Description
-A simple and interactive web-based To-Do List to manage daily tasks. Users can add, mark, and delete tasks efficiently.
+![To-Do List Screenshot](https://github.com/Chowdarysaritha311/Micro_IT_-To-Do-List_Project/assets/your-image-path)
 
-## Features
+## Project Title:
+**To-Do List Web Application**
+
+## Description:
+A simple and elegant To-Do List app that helps users stay organized and productive. This app allows users to:
 - Add new tasks
-- Mark tasks as complete/incomplete
+- Mark tasks as completed
 - Delete tasks
-- Responsive and user-friendly design
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+Perfect for students and professionals who want to manage their daily activities effectively.
 
-## Screenshot
-![To-Do List Screenshot](screenshot.png)
+## Features:
+- Add new tasks quickly
+- Delete completed or unwanted tasks
+- Clear and minimal UI
+- Responsive design
 
-## How to Run
-Open `index.html` in your browser.
+## Technologies Used:
+- **HTML** – Structure of the app  
+- **CSS** – Styling and layout  
+- **JavaScript** – Dynamic task handling
+
+## How to Use:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chowdarysaritha311/Micro_IT_-To-Do-List_Project.git
